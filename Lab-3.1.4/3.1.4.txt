@@ -1,0 +1,14 @@
+Step 2:
+ e) IMAP, FTP, HTTPS
+
+ g) The packet was sent to the switch then broadcast it to all the connected pcs within VLAN 30
+
+Reflection Questions
+ 1) All the device in VLAN10 {PC8-PC15}
+ 2) All the device in VLAN20 {PC16-PC23}
+ 3) All the device in VLAN30 {PC0-PC7}
+ 4) It will be dropped
+ 5) Ports 11 and 13
+ 6) None
+ 7)
+ 8) Each VLAN

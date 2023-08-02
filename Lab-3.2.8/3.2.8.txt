@@ -1,0 +1,24 @@
+Part 1:
+ Step 1:
+  c) The ping was unsuccessful because PC1 and PC6 are in separate VLANs
+     To PC4
+
+ Step 2:
+  b) Yes the ping was successful because PC1 and PC4 are contained within the same VLAN
+ 
+  c) Because the arp request was for VLAN10 and PC7 is included in VLAN10
+
+Part 2:
+ Step 1:
+  b) erase start
+     flash:vlan.dat
+
+  c) delete vlan.dat
+
+Reflection Questions:
+ 1) All devices within VLAN10
+ 2) All devices within VLAN20
+ 3) All devices within VLAN30
+ 4) It'll be dropped
+ 5) 
+ 6)
