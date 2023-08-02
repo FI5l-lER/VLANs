@@ -11,15 +11,15 @@
   </tr>
   <tr>
     <td>3.1.4</td>
-    <td><a href="">Who Hears the Broadcast?</a></td>
-    <td>0%</td>
-    <td>00:00</td>
+    <td><a href="https://github.com/c1oud05/VLANs/tree/main/Lab-3.1.4">Who Hears the Broadcast?</a></td>
+    <td>Nil</td>
+    <td>10:01</td>
   </tr>
   <tr>
     <td>3.2.8</td>
-    <td><a href="">Investigate a VLAN Implementation</a></td>
-    <td>0%</td>
-    <td>00:00</td>
+    <td><a href="https://github.com/c1oud05/VLANs/tree/main/Lab-3.2.8">Investigate a VLAN Implementation</a></td>
+    <td>Nil</td>
+    <td>15:06</td>
   </tr>
   <tr>
     <td>3.3.12</td>
