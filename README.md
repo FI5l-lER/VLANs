@@ -23,25 +23,25 @@
   </tr>
   <tr>
     <td>3.3.12</td>
-    <td><a href="">VLAN Configuration</a></td>
-    <td>0%</td>
-    <td>00:00</td>
+    <td><a href="https://github.com/c1oud05/VLANs/tree/main/Lab-3.3.12">VLAN Configuration</a></td>
+    <td>100%</td>
+    <td>21:00</td>
   </tr>
   <tr>
     <td>3.4.5</td>
-    <td><a href="">Configure Trunks</a></td>
+    <td><a href="https://github.com/c1oud05/VLANs/tree/main/Lab-3.4.5">Configure Trunks</a></td>
     <td>0%</td>
     <td>00:00</td>
   </tr>
   <tr>
     <td>3.5.5</td>
-    <td><a href="">Configure DTP</a></td>
+    <td><a href="https://github.com/c1oud05/VLANs/tree/main/Lab-3.5.5">Configure DTP</a></td>
     <td>0%</td>
     <td>00:00</td>
   </tr>
   <tr>
     <td>3.6.1</td>
-    <td><a href="">Implement VLANs and Trunking</a></td>
+    <td><a href="https://github.com/c1oud05/VLANs/tree/main/Lab-3.6.1">Implement VLANs and Trunking</a></td>
     <td>0%</td>
     <td>00:00</td>
   </tr>
