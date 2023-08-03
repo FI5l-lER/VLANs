@@ -1,0 +1,10 @@
+Part 2:
+ Step 1:
+  b) Because trunking has been enabled on S1
+     DTP has automatically negotiated the other 2 sides of the trunk links
+
+ Step 2:
+  - 1, 10, 20, 30, 88, 99
+
+ Step 4:
+  b) Because it is now a trunk port

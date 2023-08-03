@@ -30,8 +30,8 @@
   <tr>
     <td>3.4.5</td>
     <td><a href="https://github.com/c1oud05/VLANs/tree/main/Lab-3.4.5">Configure Trunks</a></td>
-    <td>0%</td>
-    <td>00:00</td>
+    <td>100%</td>
+    <td>14:50</td>
   </tr>
   <tr>
     <td>3.5.5</td>
