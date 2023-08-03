@@ -20,5 +20,5 @@ Reflection Questions:
  2) All devices within VLAN20
  3) All devices within VLAN30
  4) It'll be dropped
- 5) 
- 6)
+ 5) Each port
+ 6) Each VLAN
